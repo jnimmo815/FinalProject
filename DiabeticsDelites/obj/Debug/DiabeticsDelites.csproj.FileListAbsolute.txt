@@ -77,3 +77,7 @@ C:\Users\James\source\repos\FinalProject\DiabeticsDelites\obj\Debug\DiabeticsDel
 C:\Users\James\source\repos\FinalProject\DiabeticsDelites\obj\Debug\DiabeticsDelites.pdb
 C:\Users\James\source\repos\FinalProject\DiabeticsDelites\bin\MySql.Data.dll
 C:\Users\James\source\repos\FinalProject\DiabeticsDelites\bin\MySql.Data.xml
+C:\Users\James\source\repos\FinalProject\DiabeticsDelites\bin\WebMatrix.Data.dll
+C:\Users\James\source\repos\FinalProject\DiabeticsDelites\bin\WebMatrix.WebData.dll
+C:\Users\James\source\repos\FinalProject\DiabeticsDelites\bin\WebMatrix.Data.xml
+C:\Users\James\source\repos\FinalProject\DiabeticsDelites\bin\WebMatrix.WebData.xml
